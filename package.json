@@ -1,0 +1,24 @@
+{
+  "name": "cean-project",
+  "version": "1.0.0",
+  "description": "An example of using the Node.js SDK for Couchbase to create a simple CEAN stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "couchbase",
+    "node",
+    "jenkins",
+    "angular"
+  ],
+  "author": "jturello",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "couchbase": "^2.6.2",
+    "express": "^4.16.4",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {}
+}
